@@ -1,0 +1,7 @@
+table jun
+(
+id SEQUENCE,
+name STRING(20),
+arr ARRAYINT(3),
+comment CHSTRING(20)
+)
